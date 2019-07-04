@@ -1,0 +1,22 @@
+
+●DB作成
+
+・MySQLインストール後にroot でログイン
+
+・DBを作る
+$ create database royale_mahi;
+
+$ CREATE USER royale@localhost IDENTIFIED BY 'royale';
+
+・権限を渡す
+$ grant all on royale_mahi.* to royale@localhost;
+
+・ログインしなおす
+$ exit
+
+$ mysql -u royale -p
+>> royale
+
+$ use royale_mahi
+
+・DDLを流す
