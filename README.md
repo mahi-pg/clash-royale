@@ -16,7 +16,8 @@ clash-royale_clan management
 (本当は通知とかしたいから、AndroidとiOS用に作る必要があるかも。今後の課題。)
 
 ## Contribution
-一旦、現状は参加不可。1つずつ作業をまとめるため。
+一旦、現状は参加不可。1つずつ作業を記録するため。  
+大きくなったら変える。(夢)
 
 ## Licence
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
